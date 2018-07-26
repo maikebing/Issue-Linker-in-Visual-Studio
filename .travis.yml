@@ -1,2 +1,2 @@
 language: csharp
-solution: Issue Linker.sln
+solution: "Issue Linker.sln"
