@@ -1,4 +1,4 @@
 language: csharp
 solution: "Issue Linker.sln"
 install:
-  - nuget restore "Issue Linker.sln"
+  - nuget restore "$SOLUTIONAME"
