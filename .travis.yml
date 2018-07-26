@@ -2,3 +2,4 @@ language: csharp
 solution: "Issue Linker.sln"
 install:
   - nuget restore "Issue Linker.sln"
+  - msbuild /p:Configuration=Release "Issue Linker.sln"
