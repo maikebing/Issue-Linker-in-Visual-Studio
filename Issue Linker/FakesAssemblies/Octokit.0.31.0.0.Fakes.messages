@@ -1,0 +1,512 @@
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate stub for <>f__AnonymousType0`4: type is sealed.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate stub for <>f__AnonymousType1`6: type is sealed.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate stub for <>f__AnonymousType2`5: type is sealed.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate stub for <>f__AnonymousType3: type is sealed.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate stub for <>f__AnonymousType4`1: type is sealed.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate stub for <>f__AnonymousType5`3: type is sealed.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate stub for <>f__AnonymousType6`2: type is sealed.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate stub for <>f__AnonymousType7`2: type is sealed.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate stub for <>f__AnonymousType8`1: type is sealed.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate stub for <>f__AnonymousType9`2: type is sealed.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate stub for <>f__AnonymousType10`2: type is sealed.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate stub for <>f__AnonymousType11`2: type is sealed.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate stub for Octokit.AuthenticationType: type is a value type.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate stub for Octokit.EnterpriseProbeResult: type is a value type.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate stub for Octokit.ArchiveFormat: type is a value type.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate stub for Octokit.OrganizationMembersFilter: type is a value type.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate stub for Octokit.OrganizationMembersRole: type is a value type.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate stub for Octokit.TwoFactorType: type is a value type.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate stub for Octokit.AcceptHeaders: type is sealed.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate stub for Octokit.ApiErrorExtensions: type is sealed.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate stub for Octokit.ApiExtensions: type is sealed.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate stub for Octokit.ApiUrls: type is sealed.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate stub for Octokit.AuthorizationExtensions: type is sealed.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate stub for Octokit.CollectionExtensions: type is sealed.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate stub for Octokit.Ensure: type is sealed.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate stub for Octokit.ValidatedNotNullAttribute: type is sealed.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate stub for Octokit.EnumExtensions: type is sealed.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate stub for Octokit.ExcludeFromCtorWithAllPropertiesConventionTestAttribute: type is sealed.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate stub for Octokit.ExcludeFromPaginationApiOptionsConventionTestAttribute: type is sealed.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate stub for Octokit.ExcludeFromPaginationNamingConventionTestAttribute: type is sealed.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate stub for Octokit.HttpClientExtensions: type is sealed.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate stub for Octokit.Pagination: type is sealed.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate stub for Octokit.PropertyOrField: type is not visible to exported or assembly(Octokit.0.31.0.0.Fakes).
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate stub for Octokit.ReflectionExtensions: type is sealed.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate stub for Octokit.StringExtensions: type is sealed.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate stub for Octokit.UriExtensions: type is sealed.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate stub for Octokit.ApiInfoExtensions: type is sealed.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate stub for Octokit.CredentialsExtensions: type is sealed.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate stub for Octokit.RequestBody: type is sealed.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate stub for Octokit.CheckStatus: type is a value type.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate stub for Octokit.CheckConclusion: type is a value type.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate stub for Octokit.CheckWarningLevel: type is a value type.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate stub for Octokit.CheckStatusFilter: type is a value type.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate stub for Octokit.CheckRunCompletedAtFilter: type is a value type.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate stub for Octokit.IssueFilter: type is a value type.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate stub for Octokit.ItemStateFilter: type is a value type.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate stub for Octokit.ItemState: type is a value type.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate stub for Octokit.IssueSort: type is a value type.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate stub for Octokit.SortDirection: type is a value type.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate stub for Octokit.PullRequestMergeMethod: type is a value type.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate stub for Octokit.MilestoneSort: type is a value type.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate stub for Octokit.DeployTask: type is a value type.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate stub for Octokit.ProjectCardContentType: type is a value type.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate stub for Octokit.WebHookContentType: type is a value type.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate stub for Octokit.Permission: type is a value type.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate stub for Octokit.ProjectCardPosition: type is a value type.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate stub for Octokit.ProjectCardArchivedStateFilter: type is a value type.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate stub for Octokit.ProjectColumnPosition: type is a value type.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate stub for Octokit.PullRequestSort: type is a value type.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate stub for Octokit.PullRequestReviewEvent: type is a value type.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate stub for Octokit.Sort: type is a value type.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate stub for Octokit.RepositoryType: type is a value type.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate stub for Octokit.RepositorySort: type is a value type.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate stub for Octokit.RepositoryVisibility: type is a value type.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate stub for Octokit.RepositoryAffiliation: type is a value type.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate stub for Octokit.CodeSearchSort: type is a value type.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate stub for Octokit.CodeInQualifier: type is a value type.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate stub for Octokit.IssueSearchSort: type is a value type.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate stub for Octokit.IssueTypeQualifier: type is a value type.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate stub for Octokit.IssueInQualifier: type is a value type.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate stub for Octokit.IssueIsQualifier: type is a value type.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate stub for Octokit.IssueNoMetadataQualifier: type is a value type.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate stub for Octokit.LabelSearchSort: type is a value type.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate stub for Octokit.SearchQualifierOperator: type is a value type.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate stub for Octokit.InQualifier: type is a value type.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate stub for Octokit.Language: type is a value type.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate stub for Octokit.RepoSearchSort: type is a value type.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate stub for Octokit.ForkQualifier: type is a value type.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate stub for Octokit.AccountSearchType: type is a value type.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate stub for Octokit.UserInQualifier: type is a value type.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate stub for Octokit.UsersSearchSort: type is a value type.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate stub for Octokit.StarredSort: type is a value type.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate stub for Octokit.TeamRoleFilter: type is a value type.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate stub for Octokit.AccountType: type is a value type.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate stub for Octokit.EncodingType: type is a value type.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate stub for Octokit.CommitState: type is a value type.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate stub for Octokit.ContentType: type is a value type.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate stub for Octokit.DeploymentState: type is a value type.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate stub for Octokit.EmailVisibility: type is a value type.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate stub for Octokit.PreReceiveEnvironmentDownloadState: type is a value type.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate stub for Octokit.EventInfoState: type is a value type.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate stub for Octokit.InstallationRepositorySelection: type is a value type.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate stub for Octokit.InstallationPermissionLevel: type is a value type.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate stub for Octokit.IssueCommentSort: type is a value type.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate stub for Octokit.MembershipState: type is a value type.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate stub for Octokit.OrganizationMembershipRole: type is a value type.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate stub for Octokit.PagesBuildStatus: type is a value type.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate stub for Octokit.PermissionLevel: type is a value type.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate stub for Octokit.MergeableState: type is a value type.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate stub for Octokit.PullRequestReviewState: type is a value type.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate stub for Octokit.PullRequestReviewCommentSort: type is a value type.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate stub for Octokit.ReactionType: type is a value type.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate stub for Octokit.ReadmeResponse: type is not visible to exported or assembly(Octokit.0.31.0.0.Fakes).
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate stub for Octokit.InvitationPermissionType: type is a value type.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate stub for Octokit.TrafficDayOrWeek: type is a value type.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate stub for Octokit.StringEnum`1: type is a value type.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate stub for Octokit.TaggedType: type is a value type.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate stub for Octokit.TeamPrivacy: type is a value type.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate stub for Octokit.TeamRole: type is a value type.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate stub for Octokit.TreeType: type is a value type.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate stub for Octokit.FileMode: type is sealed.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate stub for Octokit.VerificationReason: type is a value type.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate stub for Octokit.JsonArray: type is not visible to exported or assembly(Octokit.0.31.0.0.Fakes).
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate stub for Octokit.JsonObject: type is not visible to exported or assembly(Octokit.0.31.0.0.Fakes).
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate stub for Octokit.SimpleJson: type is sealed.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate stub for Octokit.IJsonSerializerStrategy: type is not visible to exported or assembly(Octokit.0.31.0.0.Fakes).
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate stub for Octokit.PocoJsonSerializerStrategy: type is not visible to exported or assembly(Octokit.0.31.0.0.Fakes).
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate stub for Octokit.Reflection.ReflectionUtils: type is not visible to exported or assembly(Octokit.0.31.0.0.Fakes).
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate stub for Octokit.Helpers.ReferenceExtensions: type is sealed.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate stub for Octokit.Helpers.SerializeAsBase64Attribute: type is sealed.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate stub for Octokit.Helpers.UnixTimestampExtensions: type is sealed.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate stub for Octokit.Internal.AnonymousAuthenticator: type is not visible to exported or assembly(Octokit.0.31.0.0.Fakes).
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate stub for Octokit.Internal.Authenticator: type is not visible to exported or assembly(Octokit.0.31.0.0.Fakes).
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate stub for Octokit.Internal.BasicAuthenticator: type is not visible to exported or assembly(Octokit.0.31.0.0.Fakes).
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate stub for Octokit.Internal.BearerTokenAuthenticator: type is not visible to exported or assembly(Octokit.0.31.0.0.Fakes).
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate stub for Octokit.Internal.IAuthenticationHandler: type is not visible to exported or assembly(Octokit.0.31.0.0.Fakes).
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate stub for Octokit.Internal.TokenAuthenticator: type is not visible to exported or assembly(Octokit.0.31.0.0.Fakes).
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate stub for Octokit.Internal.ParameterAttribute: type is sealed.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate stub for Octokit.Internal.SerializeNullAttribute: type is sealed.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate stub for Octokit.Internal.ApiInfoParser: type is sealed.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate stub for Octokit.Internal.RedirectHandler: type is not visible to exported or assembly(Octokit.0.31.0.0.Fakes).
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate stub for Octokit.Internal.HttpMessageHandlerFactory: type is sealed.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate stub for Octokit.Internal.HttpVerb: type is sealed.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate stub for Octokit.Internal.Response: type is not visible to exported or assembly(Octokit.0.31.0.0.Fakes).
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate stub for <PrivateImplementationDetails>: type is sealed.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for <>f__AnonymousType0`4: type is not supported because of internal limitations.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for <>f__AnonymousType1`6: type is not supported because of internal limitations.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for <>f__AnonymousType2`5: type is not supported because of internal limitations.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for <>f__AnonymousType3: type is not supported because of internal limitations.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for <>f__AnonymousType4`1: type is not supported because of internal limitations.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for <>f__AnonymousType5`3: type is not supported because of internal limitations.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for <>f__AnonymousType6`2: type is not supported because of internal limitations.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for <>f__AnonymousType7`2: type is not supported because of internal limitations.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for <>f__AnonymousType8`1: type is not supported because of internal limitations.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for <>f__AnonymousType9`2: type is not supported because of internal limitations.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for <>f__AnonymousType10`2: type is not supported because of internal limitations.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for <>f__AnonymousType11`2: type is not supported because of internal limitations.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.AuthenticationType: type is an enum.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.ApiPagination+<GetAllPages>d__0`1: type is not supported because of internal limitations.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.AssigneesClient+<CheckAssignee>d__5: type is not supported because of internal limitations.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.AssigneesClient+<CheckAssignee>d__8: type is not supported because of internal limitations.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.AuthorizationsClient+<GetOrCreateApplicationAuthentication>d__9: type is not supported because of internal limitations.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.CheckRunsClient+<>c: type is not supported because of internal limitations.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.CheckRunsClient+<GetAllForCheckSuite>d__15: type is not supported because of internal limitations.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.CheckRunsClient+<GetAllForCheckSuite>d__16: type is not supported because of internal limitations.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.CheckRunsClient+<GetAllForReference>d__10: type is not supported because of internal limitations.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.CheckRunsClient+<GetAllForReference>d__9: type is not supported because of internal limitations.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.CheckSuitesClient+<>c: type is not supported because of internal limitations.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.CheckSuitesClient+<GetAllForReference>d__7: type is not supported because of internal limitations.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.CheckSuitesClient+<GetAllForReference>d__8: type is not supported because of internal limitations.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.CheckSuitesClient+<Request>d__13: type is not supported because of internal limitations.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.CheckSuitesClient+<Request>d__14: type is not supported because of internal limitations.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.EnterpriseLdapClient+<QueueSyncTeamMapping>d__4: type is not supported because of internal limitations.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.EnterpriseLdapClient+<QueueSyncUserMapping>d__2: type is not supported because of internal limitations.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.EnterpriseProbe+<Probe>d__5: type is not supported because of internal limitations.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.EnterpriseProbeResult: type is an enum.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.IEnterpriseAdminStatsClient: type is an interface.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.IEnterpriseClient: type is an interface.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.IEnterpriseLdapClient: type is an interface.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.IEnterpriseLicenseClient: type is an interface.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.IEnterpriseOrganizationClient: type is an interface.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.IEnterprisePreReceiveEnvironmentsClient: type is an interface.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.IEnterpriseProbe: type is an interface.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.IEnterpriseSearchIndexingClient: type is an interface.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.FollowersClient+<Follow>d__11: type is not supported because of internal limitations.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.FollowersClient+<IsFollowing>d__10: type is not supported because of internal limitations.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.FollowersClient+<IsFollowingForCurrent>d__9: type is not supported because of internal limitations.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.GistsClient+<IsStarred>d__32: type is not supported because of internal limitations.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.IActivitiesClient: type is an interface.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.IAssigneesClient: type is an interface.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.IAuthorizationsClient: type is an interface.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.IBlobsClient: type is an interface.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.ICheckRunsClient: type is an interface.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.IChecksClient: type is an interface.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.ICheckSuitesClient: type is an interface.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.ICommitCommentReactionsClient: type is an interface.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.ICommitsClient: type is an interface.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.ICommitStatusClient: type is an interface.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.IDeploymentsClient: type is an interface.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.IDeploymentStatusClient: type is an interface.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.IEventsClient: type is an interface.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.IFeedsClient: type is an interface.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.IFollowersClient: type is an interface.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.IGistCommentsClient: type is an interface.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.IGistsClient: type is an interface.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.IGitDatabaseClient: type is an interface.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.IGitHubAppsClient: type is an interface.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.IIssueCommentReactionsClient: type is an interface.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.IIssueCommentsClient: type is an interface.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.IIssueReactionsClient: type is an interface.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.IIssuesClient: type is an interface.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.IIssuesEventsClient: type is an interface.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.IIssuesLabelsClient: type is an interface.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.IIssueTimelineClient: type is an interface.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.IMergingClient: type is an interface.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.IMigrationClient: type is an interface.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.IMigrationsClient: type is an interface.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.IMilestonesClient: type is an interface.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.IMiscellaneousClient: type is an interface.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.INotificationsClient: type is an interface.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.IOauthClient: type is an interface.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.IOrganizationMembersClient: type is an interface.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.IOrganizationOutsideCollaboratorsClient: type is an interface.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.IOrganizationsClient: type is an interface.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.IProjectCardsClient: type is an interface.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.IProjectColumnsClient: type is an interface.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.IProjectsClient: type is an interface.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.IPullRequestReviewCommentReactionsClient: type is an interface.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.IPullRequestReviewCommentsClient: type is an interface.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.IPullRequestReviewRequestsClient: type is an interface.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.IPullRequestReviewsClient: type is an interface.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.IPullRequestsClient: type is an interface.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.IReactionsClient: type is an interface.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.IReferencesClient: type is an interface.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.IReleasesClient: type is an interface.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.IRepoCollaboratorsClient: type is an interface.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.IRepositoriesClient: type is an interface.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.IRepositoryBranchesClient: type is an interface.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.IRepositoryCommentsClient: type is an interface.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.IRepositoryCommitsClient: type is an interface.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.IRepositoryContentsClient: type is an interface.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.ArchiveFormat: type is an enum.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.IRepositoryDeployKeysClient: type is an interface.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.IRepositoryForksClient: type is an interface.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.IRepositoryHooksClient: type is an interface.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.IRepositoryInvitationsClient: type is an interface.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.IRepositoryPagesClient: type is an interface.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.IRepositoryTrafficClient: type is an interface.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.ISearchClient: type is an interface.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.IStarredClient: type is an interface.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.IStatisticsClient: type is an interface.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.ITagsClient: type is an interface.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.ITeamsClient: type is an interface.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.ITreesClient: type is an interface.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.IUserAdministrationClient: type is an interface.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.IUserEmailsClient: type is an interface.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.IUserGpgKeysClient: type is an interface.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.IUserKeysClient: type is an interface.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.IUsersClient: type is an interface.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.IWatchedClient: type is an interface.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.MigrationsClient+<Get>d__3: type is not supported because of internal limitations.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.MigrationsClient+<GetAll>d__2: type is not supported because of internal limitations.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.MigrationsClient+<GetArchive>d__4: type is not supported because of internal limitations.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.MigrationsClient+<Start>d__1: type is not supported because of internal limitations.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.MiscellaneousClient+<>c: type is not supported because of internal limitations.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.MiscellaneousClient+<GetAllEmojis>d__2: type is not supported because of internal limitations.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.MiscellaneousClient+<GetAllGitIgnoreTemplates>d__5: type is not supported because of internal limitations.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.MiscellaneousClient+<GetAllLicenses>d__7: type is not supported because of internal limitations.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.MiscellaneousClient+<GetGitIgnoreTemplate>d__6: type is not supported because of internal limitations.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.MiscellaneousClient+<GetLicense>d__8: type is not supported because of internal limitations.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.MiscellaneousClient+<GetMetadata>d__10: type is not supported because of internal limitations.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.MiscellaneousClient+<GetRateLimits>d__9: type is not supported because of internal limitations.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.MiscellaneousClient+<RenderArbitraryMarkdown>d__4: type is not supported because of internal limitations.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.MiscellaneousClient+<RenderRawMarkdown>d__3: type is not supported because of internal limitations.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.OauthClient+<CreateAccessToken>d__4: type is not supported because of internal limitations.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.OrganizationMembersFilter: type is an enum.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.OrganizationMembersRole: type is an enum.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.OrganizationMembersClient+<CheckMember>d__11: type is not supported because of internal limitations.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.OrganizationMembersClient+<CheckMemberPublic>d__12: type is not supported because of internal limitations.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.OrganizationMembersClient+<Publicize>d__14: type is not supported because of internal limitations.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.OrganizationOutsideCollaboratorsClient+<ConvertFromMember>d__6: type is not supported because of internal limitations.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.OrganizationOutsideCollaboratorsClient+<Delete>d__5: type is not supported because of internal limitations.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.ProjectCardsClient+<Delete>d__8: type is not supported because of internal limitations.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.ProjectCardsClient+<Move>d__9: type is not supported because of internal limitations.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.ProjectColumnsClient+<Delete>d__6: type is not supported because of internal limitations.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.ProjectColumnsClient+<Move>d__7: type is not supported because of internal limitations.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.ProjectsClient+<Delete>d__17: type is not supported because of internal limitations.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.PullRequestReviewCommentsClient+<Create>d__15: type is not supported because of internal limitations.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.PullRequestReviewCommentsClient+<Create>d__16: type is not supported because of internal limitations.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.PullRequestReviewCommentsClient+<CreateReply>d__17: type is not supported because of internal limitations.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.PullRequestReviewCommentsClient+<CreateReply>d__18: type is not supported because of internal limitations.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.PullRequestReviewRequestsClient+<Create>d__5: type is not supported because of internal limitations.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.PullRequestReviewRequestsClient+<Create>d__6: type is not supported because of internal limitations.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.PullRequestsClient+<Merge>d__27: type is not supported because of internal limitations.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.PullRequestsClient+<Merge>d__28: type is not supported because of internal limitations.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.PullRequestsClient+<Merged>d__29: type is not supported because of internal limitations.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.PullRequestsClient+<Merged>d__30: type is not supported because of internal limitations.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.RepoCollaboratorsClient+<Add>d__10: type is not supported because of internal limitations.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.RepoCollaboratorsClient+<Add>d__12: type is not supported because of internal limitations.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.RepoCollaboratorsClient+<IsCollaborator>d__5: type is not supported because of internal limitations.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.RepoCollaboratorsClient+<IsCollaborator>d__6: type is not supported because of internal limitations.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.RepositoriesClient+<>c: type is not supported because of internal limitations.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.RepositoriesClient+<Create>d__3: type is not supported because of internal limitations.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.RepositoriesClient+<GetAllLanguages>d__86: type is not supported because of internal limitations.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.RepositoriesClient+<GetAllLanguages>d__87: type is not supported because of internal limitations.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.RepositoryBranchesClient+<DeleteBranchProtection>d__11: type is not supported because of internal limitations.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.RepositoryBranchesClient+<DeleteBranchProtection>d__12: type is not supported because of internal limitations.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.RepositoryBranchesClient+<DeleteProtectedBranchRestrictions>d__41: type is not supported because of internal limitations.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.RepositoryBranchesClient+<DeleteProtectedBranchRestrictions>d__42: type is not supported because of internal limitations.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.RepositoryBranchesClient+<DeleteRequiredStatusChecks>d__17: type is not supported because of internal limitations.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.RepositoryBranchesClient+<DeleteRequiredStatusChecks>d__18: type is not supported because of internal limitations.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.RepositoryBranchesClient+<RemoveAdminEnforcement>d__37: type is not supported because of internal limitations.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.RepositoryBranchesClient+<RemoveAdminEnforcement>d__38: type is not supported because of internal limitations.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.RepositoryBranchesClient+<RemoveReviewEnforcement>d__31: type is not supported because of internal limitations.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.RepositoryBranchesClient+<RemoveReviewEnforcement>d__32: type is not supported because of internal limitations.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.RepositoryContentsClient+<GetArchive>d__19: type is not supported because of internal limitations.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.RepositoryContentsClient+<GetArchive>d__20: type is not supported because of internal limitations.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.RepositoryContentsClient+<GetReadme>d__10: type is not supported because of internal limitations.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.RepositoryContentsClient+<GetReadme>d__9: type is not supported because of internal limitations.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.RepositoryInvitationsClient+<Accept>d__1: type is not supported because of internal limitations.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.RepositoryInvitationsClient+<Decline>d__2: type is not supported because of internal limitations.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.RepositoryInvitationsClient+<Delete>d__3: type is not supported because of internal limitations.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.StarredClient+<CheckStarred>d__25: type is not supported because of internal limitations.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.StarredClient+<RemoveStarFromRepo>d__27: type is not supported because of internal limitations.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.StarredClient+<StarRepo>d__26: type is not supported because of internal limitations.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.StatisticsClient+<GetCodeFrequency>d__11: type is not supported because of internal limitations.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.StatisticsClient+<GetCodeFrequency>d__12: type is not supported because of internal limitations.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.StatisticsClient+<GetCommitActivity>d__7: type is not supported because of internal limitations.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.StatisticsClient+<GetCommitActivity>d__8: type is not supported because of internal limitations.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.StatisticsClient+<GetParticipation>d__15: type is not supported because of internal limitations.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.StatisticsClient+<GetParticipation>d__16: type is not supported because of internal limitations.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.StatisticsClient+<GetPunchCard>d__19: type is not supported because of internal limitations.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.StatisticsClient+<GetPunchCard>d__20: type is not supported because of internal limitations.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.TeamsClient+<AddRepository>d__20: type is not supported because of internal limitations.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.TeamsClient+<AddRepository>d__21: type is not supported because of internal limitations.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.TeamsClient+<IsRepositoryManagedByTeam>d__23: type is not supported because of internal limitations.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.TeamsClient+<RemoveMembership>d__17: type is not supported because of internal limitations.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.TeamsClient+<RemoveRepository>d__22: type is not supported because of internal limitations.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.TreesClient+<>c: type is not supported because of internal limitations.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.UserAdministrationClient+<Delete>d__10: type is not supported because of internal limitations.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.UserAdministrationClient+<DeleteImpersonationToken>d__4: type is not supported because of internal limitations.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.UserAdministrationClient+<DeletePublicKey>d__11: type is not supported because of internal limitations.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.WatchedClient+<CheckWatched>d__10: type is not supported because of internal limitations.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.WatchedClient+<CheckWatched>d__9: type is not supported because of internal limitations.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.WatchedClient+<UnwatchRepo>d__13: type is not supported because of internal limitations.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.WatchedClient+<UnwatchRepo>d__14: type is not supported because of internal limitations.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.TwoFactorType: type is an enum.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.ApiErrorExtensions: type is not visible to exported or assembly(Octokit.0.31.0.0.Fakes).
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.AuthorizationExtensions+<GetOrCreateApplicationAuthentication>d__0: type is not supported because of internal limitations.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.CollectionExtensions: type is not visible to exported or assembly(Octokit.0.31.0.0.Fakes).
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.Ensure: type is not visible to exported or assembly(Octokit.0.31.0.0.Fakes).
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.ValidatedNotNullAttribute: type is not visible to exported or assembly(Octokit.0.31.0.0.Fakes).
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.EnumExtensions: type is not visible to exported or assembly(Octokit.0.31.0.0.Fakes).
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.IApiPagination: type is an interface.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.IReadOnlyPagedCollection`1: type is an interface.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.Pagination: type is not visible to exported or assembly(Octokit.0.31.0.0.Fakes).
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.PropertyOrField: type is not visible to exported or assembly(Octokit.0.31.0.0.Fakes).
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.ReflectionExtensions: type is not visible to exported or assembly(Octokit.0.31.0.0.Fakes).
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.StringExtensions: type is not visible to exported or assembly(Octokit.0.31.0.0.Fakes).
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.UriExtensions+<>c: type is not supported because of internal limitations.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.UriExtensions+<>c__DisplayClass2_0: type is not supported because of internal limitations.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.ApiConnection+<>c__DisplayClass16_0`1: type is not supported because of internal limitations.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.ApiConnection+<>c__DisplayClass17_0`1: type is not supported because of internal limitations.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.ApiConnection+<>c__DisplayClass40_0`1: type is not supported because of internal limitations.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.ApiConnection+<>c__DisplayClass41_0`1: type is not supported because of internal limitations.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.ApiConnection+<Delete>d__37`1: type is not supported because of internal limitations.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.ApiConnection+<Delete>d__38`1: type is not supported because of internal limitations.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.ApiConnection+<Get>d__8`1: type is not supported because of internal limitations.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.ApiConnection+<Get>d__9`1: type is not supported because of internal limitations.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.ApiConnection+<GetHtml>d__10: type is not supported because of internal limitations.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.ApiConnection+<GetPage>d__40`1: type is not supported because of internal limitations.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.ApiConnection+<GetPage>d__41`1: type is not supported because of internal limitations.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.ApiConnection+<GetQueuedOperation>d__39`1: type is not supported because of internal limitations.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.ApiConnection+<Patch>d__31`1: type is not supported because of internal limitations.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.ApiConnection+<Patch>d__32`1: type is not supported because of internal limitations.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.ApiConnection+<Post>d__19`1: type is not supported because of internal limitations.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.ApiConnection+<Post>d__22`1: type is not supported because of internal limitations.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.ApiConnection+<Post>d__23`1: type is not supported because of internal limitations.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.ApiConnection+<Post>d__24`1: type is not supported because of internal limitations.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.ApiConnection+<Put>d__26`1: type is not supported because of internal limitations.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.ApiConnection+<Put>d__27`1: type is not supported because of internal limitations.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.ApiConnection+<Put>d__28`1: type is not supported because of internal limitations.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.Connection+<>c: type is not supported because of internal limitations.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.Connection+<Delete>d__37: type is not supported because of internal limitations.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.Connection+<Delete>d__38: type is not supported because of internal limitations.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.Connection+<Delete>d__39: type is not supported because of internal limitations.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.Connection+<Delete>d__40: type is not supported because of internal limitations.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.Connection+<GetHtml>d__56: type is not supported because of internal limitations.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.Connection+<Patch>d__33: type is not supported because of internal limitations.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.Connection+<Patch>d__34: type is not supported because of internal limitations.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.Connection+<Post>d__19: type is not supported because of internal limitations.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.Connection+<Post>d__20: type is not supported because of internal limitations.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.Connection+<Put>d__35: type is not supported because of internal limitations.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.Connection+<Put>d__36: type is not supported because of internal limitations.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.Connection+<Run>d__57`1: type is not supported because of internal limitations.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.Connection+<RunRequest>d__58: type is not supported because of internal limitations.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.IApiConnection: type is an interface.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.IApiInfoProvider: type is an interface.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.IConnection: type is an interface.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.ICredentialStore: type is an interface.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.IApiResponse`1: type is an interface.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.IResponse: type is an interface.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.IGitHubClient: type is an interface.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.CheckStatus: type is an enum.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.CheckConclusion: type is an enum.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.CheckWarningLevel: type is an enum.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.CheckSuitePreferences+<>c: type is not supported because of internal limitations.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.CheckStatusFilter: type is an enum.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.CheckRunCompletedAtFilter: type is an enum.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.IssueFilter: type is an enum.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.ItemStateFilter: type is an enum.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.ItemState: type is an enum.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.IssueSort: type is an enum.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.SortDirection: type is an enum.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.PullRequestMergeMethod: type is an enum.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.MilestoneSort: type is an enum.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.DeployTask: type is an enum.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.ProjectCardContentType: type is an enum.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.NewRepositoryWebHook+<>c: type is not supported because of internal limitations.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.WebHookContentType: type is an enum.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.Permission: type is an enum.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.ProjectCardPosition: type is an enum.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.ProjectCardArchivedStateFilter: type is an enum.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.ProjectColumnPosition: type is an enum.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.PullRequestSort: type is an enum.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.PullRequestReviewEvent: type is an enum.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.Sort: type is an enum.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.RepositoryType: type is an enum.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.RepositorySort: type is an enum.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.RepositoryVisibility: type is an enum.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.RepositoryAffiliation: type is an enum.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.RequestParameters+<>c: type is not supported because of internal limitations.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.RequestParameters+<>c__DisplayClass3_0: type is not supported because of internal limitations.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.RequestParameters+<>c__DisplayClass3_1: type is not supported because of internal limitations.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.RequestParameters+PropertyParameter: type is not visible to exported or assembly(Octokit.0.31.0.0.Fakes).
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.SearchCodeRequest+<>c: type is not supported because of internal limitations.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.CodeSearchSort: type is an enum.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.CodeInQualifier: type is an enum.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.SearchIssuesRequest+<>c: type is not supported because of internal limitations.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.IssueSearchSort: type is an enum.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.IssueTypeQualifier: type is an enum.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.IssueInQualifier: type is an enum.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.IssueIsQualifier: type is an enum.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.IssueNoMetadataQualifier: type is an enum.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.SearchIssuesRequestExclusions+<>c: type is not supported because of internal limitations.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.LabelSearchSort: type is an enum.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.SearchQualifierOperator: type is an enum.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.InQualifier: type is an enum.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.Language: type is an enum.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.RepoSearchSort: type is an enum.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.ForkQualifier: type is an enum.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.AccountSearchType: type is an enum.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.UserInQualifier: type is an enum.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.UsersSearchSort: type is an enum.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.StarredSort: type is an enum.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.TeamRoleFilter: type is an enum.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.AccountType: type is an enum.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.EncodingType: type is an enum.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.BranchProtectionPushRestrictions+<>c: type is not supported because of internal limitations.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.BranchProtectionRequiredReviewsDismissalRestrictions+<>c: type is not supported because of internal limitations.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.CodeFrequency+<>c: type is not supported because of internal limitations.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.CommitState: type is an enum.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.ContentType: type is an enum.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.DeploymentState: type is an enum.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.EmailVisibility: type is an enum.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.PreReceiveEnvironmentDownloadState: type is an enum.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.EventInfoState: type is an enum.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.InstallationRepositorySelection: type is an enum.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.InstallationPermissionLevel: type is an enum.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.Issue+<>c: type is not supported because of internal limitations.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.IssueCommentSort: type is an enum.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.MembershipState: type is an enum.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.Migration+MigrationState: type is an enum.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.OrganizationMembershipRole: type is an enum.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.PagesBuildStatus: type is an enum.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.PermissionLevel: type is an enum.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.MergeableState: type is an enum.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.PullRequestReviewState: type is an enum.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.PullRequestReviewCommentSort: type is an enum.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.PunchCard+<>c: type is not supported because of internal limitations.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.PunchCard+<>c__DisplayClass7_0: type is not supported because of internal limitations.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.ReactionType: type is an enum.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.Readme+<>c__DisplayClass2_0: type is not supported because of internal limitations.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.ReadmeResponse: type is not visible to exported or assembly(Octokit.0.31.0.0.Fakes).
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.InvitationPermissionType: type is an enum.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.TrafficDayOrWeek: type is an enum.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.StringEnum`1: type Octokit.StringEnum`1 unstubbable: unsupported constraint type.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.TaggedType: type is an enum.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.TeamPrivacy: type is an enum.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.TeamRole: type is an enum.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.TreeType: type is an enum.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.VerificationReason: type is an enum.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.JsonArray: type is not visible to exported or assembly(Octokit.0.31.0.0.Fakes).
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.JsonObject: type is not visible to exported or assembly(Octokit.0.31.0.0.Fakes).
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.SimpleJson: type is not visible to exported or assembly(Octokit.0.31.0.0.Fakes).
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.IJsonSerializerStrategy: type is an interface.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.PocoJsonSerializerStrategy: type is not visible to exported or assembly(Octokit.0.31.0.0.Fakes).
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.Reflection.ReflectionUtils: type is not visible to exported or assembly(Octokit.0.31.0.0.Fakes).
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.Helpers.ReferenceExtensions+<CreateBranch>d__0: type is not supported because of internal limitations.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.Helpers.ReferenceExtensions+<CreateBranch>d__1: type is not supported because of internal limitations.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.Internal.AnonymousAuthenticator: type is not visible to exported or assembly(Octokit.0.31.0.0.Fakes).
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.Internal.Authenticator: type is not visible to exported or assembly(Octokit.0.31.0.0.Fakes).
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.Internal.BasicAuthenticator: type is not visible to exported or assembly(Octokit.0.31.0.0.Fakes).
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.Internal.BearerTokenAuthenticator: type is not visible to exported or assembly(Octokit.0.31.0.0.Fakes).
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.Internal.IAuthenticationHandler: type is an interface.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.Internal.TokenAuthenticator: type is not visible to exported or assembly(Octokit.0.31.0.0.Fakes).
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.Internal.ApiInfoParser: type is not visible to exported or assembly(Octokit.0.31.0.0.Fakes).
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.Internal.HttpClientAdapter+<>c: type is not supported because of internal limitations.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.Internal.HttpClientAdapter+<>c__DisplayClass5_0: type is not supported because of internal limitations.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.Internal.HttpClientAdapter+<BuildResponse>d__5: type is not supported because of internal limitations.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.Internal.HttpClientAdapter+<CloneHttpRequestMessageAsync>d__11: type is not supported because of internal limitations.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.Internal.HttpClientAdapter+<Send>d__3: type is not supported because of internal limitations.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.Internal.HttpClientAdapter+<SendAsync>d__10: type is not supported because of internal limitations.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.Internal.RedirectHandler: type is not visible to exported or assembly(Octokit.0.31.0.0.Fakes).
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.Internal.HttpVerb: type is not visible to exported or assembly(Octokit.0.31.0.0.Fakes).
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.Internal.IHttpClient: type is an interface.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.Internal.IJsonSerializer: type is an interface.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.Internal.IRequest: type is an interface.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.Internal.ReadOnlyPagedCollection`1+<GetNextPage>d__3: type is not supported because of internal limitations.
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.Internal.Response: type is not visible to exported or assembly(Octokit.0.31.0.0.Fakes).
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for Octokit.Internal.SimpleJsonSerializer+GitHubSerializerStrategy: type is not visible to exported or assembly(Octokit.0.31.0.0.Fakes).
+C:\Users\Zakki\source\repos\Issue Linker\Issue Linker\Fakes\Octokit.fakes : warning : Cannot generate shim for <PrivateImplementationDetails>: type is not supported because of internal limitations.

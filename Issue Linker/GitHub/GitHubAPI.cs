@@ -9,11 +9,13 @@ namespace Issue_Linker
 {
     class GitHubAPI
     {
+        Credentials credential = new Credentials(Secrets.Ocktokit);
         //TODO: GET NAME OF THE GIT REPOSITORY
         GitHubClient gitHubClient = new GitHubClient(new ProductHeaderValue("Issue-Linker-in-Visual-Studio"));
 
         public async Task<Tuple<Issue, PullRequest>> GetObjectAsync(int number)
         {
+            gitHubClient.Credentials = credential;
 
             //string solutionName = Path.GetFileName(Process.GetCurrentProcess().MainModule.FileName);
             string repositoryName = "Issue-Linker-in-Visual-Studio";
@@ -22,6 +24,7 @@ namespace Issue_Linker
 
             var issue = await GetIssueAsync(repo.Id, number);
             var pullRequest = await GetPullRequestAsync(repo.Id, number);
+
             return new Tuple<Issue, PullRequest>(issue, pullRequest);
         }
 
@@ -29,6 +32,7 @@ namespace Issue_Linker
         {
             try
             {
+                Console.Write("Calling Issue API");
                 return await gitHubClient.Issue.Get(id, number);
             }
             catch
@@ -42,6 +46,7 @@ namespace Issue_Linker
         {
             try
             {
+                Console.Write("Calling PR API");
                 return await gitHubClient.PullRequest.Get(id, number);
             }
             catch

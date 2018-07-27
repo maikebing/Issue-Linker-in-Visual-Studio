@@ -6,12 +6,10 @@ using Microsoft.VisualStudio.Text.Formatting;
 using Microsoft.VisualStudio.Shell;
 using System.Threading.Tasks;
 using Octokit;
+using System.Collections.Generic;
 
 namespace Issue_Linker
 {
-    /// <summary>
-    /// TagDetector places red boxes behind all the "a"s in the editor window
-    /// </summary>
     internal sealed class TagDetector
     {
         /// <summary>
@@ -24,41 +22,29 @@ namespace Issue_Linker
         /// </summary>
         private readonly IWpfTextView view;
 
-        /// <summary>
-        /// Adornment brush.
-        /// </summary>
-        private readonly Brush brush;
+        private TagDetectorTextViewCreationListener listener;
 
-        /// <summary>
-        /// Adornment pen.
-        /// </summary>
-        private readonly Pen pen;
+        internal TagDetectorTextViewCreationListener Listener { get => listener; set => listener = value; }
 
         /// <summary>
         /// Initializes a new instance of the <see cref="TagDetector"/> class.
         /// </summary>
         /// <param name="view">Text view to create the adornment for</param>
-        public TagDetector(IWpfTextView view)
+        public TagDetector(IWpfTextView view, TagDetectorTextViewCreationListener listener)
         {
             if (view == null)
             {
                 throw new ArgumentNullException("view");
             }
 
+            Listener = listener;
+
             this.layer = view.GetAdornmentLayer("TagDetector");
 
             this.view = view;
             this.view.LayoutChanged += this.OnLayoutChanged;
-
-            // Create the pen and brush to color the box behind the a's
-            this.brush = new SolidColorBrush(Color.FromArgb(0x20, 0x00, 0x00, 0xff));
-            this.brush.Freeze();
-
-            var penBrush = new SolidColorBrush(Colors.Red);
-            penBrush.Freeze();
-            this.pen = new Pen(penBrush, 0.5);
-            this.pen.Freeze();
         }
+
 
         /// <summary>
         /// Handles whenever the text displayed in the view changes by adding the adornment to any reformatted lines
@@ -76,9 +62,9 @@ namespace Issue_Linker
                 ThreadHelper.JoinableTaskFactory.RunAsync(async delegate
                 {
                     await DetectionAsync(line);
-                    
+
                 });
-                
+
             }
         }
         /// <summary>
@@ -87,42 +73,52 @@ namespace Issue_Linker
         /// <param name="line">Line to add the adornments</param>
         private async System.Threading.Tasks.Task DetectionAsync(ITextViewLine line)
         {
-            IWpfTextViewLineCollection textViewLines = this.view.TextViewLines;
-
-            // Loop through each character, and place a box around any 'a'
-            //for (int charIndex = line.Start; charIndex < line.End; charIndex++)
-            var snap = this.view.TextSnapshot;
-            foreach (var l in this.view.TextSnapshot.Lines)
+            string text = "";
+            for (int charIndex = line.Start; charIndex < line.End; charIndex++)
             {
-                string text = l.GetText();
-                if (text.Contains("#"))
+                text += this.view.TextSnapshot[charIndex];
+            }
+
+            if (text.Contains("#") && text.Contains("//"))
+            {
+                // GitHub Regex
+                Regex regex = new Regex(@"#\d+ ");
+                Match match = regex.Match(text);
+                if (match.Success)
                 {
-                    // github regex
-                    Regex regex = new Regex(@"#\d+ ");
-                    Match match = regex.Match(text);
-                    if (match.Success)
-                    {
-                        int number = Int32.Parse(match.Value.Split('#')[1]);
-                        // call github api
-                        Console.WriteLine("Calling the GitHub API, it might take a second");
-                        Tuple<Issue, PullRequest> result = await new GitHubAPI().GetObjectAsync(number);
-                        //Do graphics with the 
-                        
+                    int number = Int32.Parse(match.Value.Split('#')[1]);
 
-                        return;
+                    double x = line.Right;
+                    double y = line.Top;
+                    //if it exists, redraw
+                    GitHubLink ghl;
+                    try
+                    {
+                        ghl = (GitHubLink)Listener.Links.Find(m => m.TagNumber == number);
+                        ghl.Redraw(x, y);
+                    }
+                    catch
+                    {
+                        ghl = new GitHubLink(number, view);
+                        bool done = await ghl.CallAPIAsync();
+                        ghl.CreateVisuals(x, y);
+                        Listener.Links.Add(ghl);
                     }
 
-                    // jira regex
-                    regex = new Regex(@"#\w+-\d+ ");
-                    match = regex.Match(text);
-                    if (match.Success)
-                    {
-                        // call jira api
+                    return;
+                }
 
-                        return;
-                    }
+                // jira regex
+                regex = new Regex(@"#\w+-\d+ ");
+                match = regex.Match(text);
+                if (match.Success)
+                {
+                    // call jira api
+
+                    return;
                 }
             }
+
         }
     }
 }
