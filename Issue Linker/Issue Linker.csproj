@@ -49,11 +49,15 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="Visuals\ButtonShape.cs" />
-    <Compile Include="Visuals\CreateVisuals.cs" />
+    <Compile Include="Providers\LinkAdornmentProvider.cs" />
+    <Compile Include="Links\LinkAdornment.cs" />
+    <Compile Include="Links\LinkTagger.cs" />
+    <Compile Include="Support\IntraTextAdornmentTagger.cs" />
+    <Compile Include="Support\IntraTextAdornmentTagTransformer.cs" />
+    <Compile Include="Support\RegexTagger.cs" />
     <Compile Include="GitHub\GitHubAPI.cs" />
     <Compile Include="GitHub\GitHubLink.cs" />
-    <Compile Include="Core\Link.cs" />
+    <Compile Include="Links\Link.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Secrets.Designer.cs">
       <AutoGen>True</AutoGen>
@@ -61,8 +65,8 @@
       <DependentUpon>Secrets.resx</DependentUpon>
     </Compile>
     <Compile Include="Detector\TagDetector.cs" />
-    <Compile Include="Detector\TagDetectorTextViewCreationListener.cs" />
-    <Compile Include="Visuals\CreateVisualsTextViewCreationListener.cs" />
+    <Compile Include="Providers\TagDetectorProvider.cs" />
+    <Compile Include="Core\Tag.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="app.config" />

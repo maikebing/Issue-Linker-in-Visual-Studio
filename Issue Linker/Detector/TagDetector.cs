@@ -7,118 +7,59 @@ using Microsoft.VisualStudio.Shell;
 using System.Threading.Tasks;
 using Octokit;
 using System.Collections.Generic;
+using Microsoft.VisualStudio.Text;
+using Issue_Linker.Visuals;
+using IntraTextAdornmentSample;
 
 namespace Issue_Linker
 {
-    internal sealed class TagDetector
+    internal sealed class TagDetector : RegexTagger<Tag>
     {
-        /// <summary>
-        /// The layer of the adornment.
-        /// </summary>
-        private readonly IAdornmentLayer layer;
 
-        /// <summary>
-        /// Text view where the adornment is created.
-        /// </summary>
-        private readonly IWpfTextView view;
-
-        private TagDetectorTextViewCreationListener listener;
-
-        internal TagDetectorTextViewCreationListener Listener { get => listener; set => listener = value; }
-
-        /// <summary>
-        /// Initializes a new instance of the <see cref="TagDetector"/> class.
-        /// </summary>
-        /// <param name="view">Text view to create the adornment for</param>
-        public TagDetector(IWpfTextView view, TagDetectorTextViewCreationListener listener)
+        public TagDetector(ITextBuffer buffer) : base(buffer, new[] { new Regex(@"#\d+ "), new Regex(@"#\w+-\d+ ") })
         {
-            if (view == null)
-            {
-                throw new ArgumentNullException("view");
-            }
-
-            Listener = listener;
-
-            this.layer = view.GetAdornmentLayer("TagDetector");
-
-            this.view = view;
-            this.view.LayoutChanged += this.OnLayoutChanged;
         }
 
-
-        /// <summary>
-        /// Handles whenever the text displayed in the view changes by adding the adornment to any reformatted lines
-        /// </summary>
-        /// <remarks><para>This event is raised whenever the rendered text displayed in the <see cref="ITextView"/> changes.</para>
-        /// <para>It is raised whenever the view does a layout (which happens when DisplayTextLineContainingBufferPosition is called or in response to text or classification changes).</para>
-        /// <para>It is also raised whenever the view scrolls horizontally or when its size changes.</para>
-        /// </remarks>
-        /// <param name="sender">The event sender.</param>
-        /// <param name="e">The event arguments.</param>
-        internal void OnLayoutChanged(object sender, TextViewLayoutChangedEventArgs e)
+        protected override Tag TryCreateTagForMatch(Match match)
         {
-            foreach (ITextViewLine line in e.NewOrReformattedLines)
+            Link link = new GitHubLink(0);
+            ThreadHelper.JoinableTaskFactory.RunAsync(async delegate
             {
-                ThreadHelper.JoinableTaskFactory.RunAsync(async delegate
-                {
-                    await DetectionAsync(line);
+                link = await DetectionAsync(match);
 
-                });
+            });
 
-            }
+            return new Tag(link);
         }
+
         /// <summary>
         /// Detects the pull request/issue by #number
         /// </summary>
         /// <param name="line">Line to add the adornments</param>
-        private async System.Threading.Tasks.Task DetectionAsync(ITextViewLine line)
+        private async Task<Link> DetectionAsync(Match match)
         {
-            string text = "";
-            for (int charIndex = line.Start; charIndex < line.End; charIndex++)
+            if (match.Success)
             {
-                text += this.view.TextSnapshot[charIndex];
-            }
-
-            if (text.Contains("#") && text.Contains("//"))
-            {
-                // GitHub Regex
-                Regex regex = new Regex(@"#\d+ ");
-                Match match = regex.Match(text);
-                if (match.Success)
+                if (!match.Value.Contains("-"))
                 {
                     int number = Int32.Parse(match.Value.Split('#')[1]);
-
-                    double x = line.Right;
-                    double y = line.Top;
-                    //if it exists, redraw
-                    GitHubLink ghl;
-                    try
-                    {
-                        ghl = (GitHubLink)Listener.Links.Find(m => m.TagNumber == number);
-                        ghl.Redraw(x, y);
-                    }
-                    catch
-                    {
-                        ghl = new GitHubLink(number, view);
-                        bool done = await ghl.CallAPIAsync();
-                        ghl.CreateVisuals(x, y);
-                        Listener.Links.Add(ghl);
-                    }
-
-                    return;
+                    GitHubLink githubLink = new GitHubLink(number);
+                    await githubLink.CallAPIAsync();
+                    return githubLink;
                 }
-
-                // jira regex
-                regex = new Regex(@"#\w+-\d+ ");
-                match = regex.Match(text);
-                if (match.Success)
+                else
                 {
-                    // call jira api
-
-                    return;
+                    //todo jira
+                    return null;
                 }
-            }
 
+
+                // call jira api
+
+            }
+            else return null;
         }
+
     }
 }
+
