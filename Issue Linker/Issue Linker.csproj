@@ -49,6 +49,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="Core\Label.cs" />
     <Compile Include="Providers\LinkAdornmentProvider.cs" />
     <Compile Include="Links\LinkAdornment.cs" />
     <Compile Include="Links\LinkTagger.cs" />
