@@ -9,7 +9,7 @@ namespace Issue_Linker
 {
     class GitHubAPI
     {
-        Credentials credential = new Credentials(Secrets.Ocktokit);
+        Credentials credential = new Credentials("9326e4ad857445ea8be02fc7abd0d118a439bc9f");
         //TODO: GET NAME OF THE GIT REPOSITORY
         GitHubClient gitHubClient = new GitHubClient(new ProductHeaderValue("Issue-Linker-in-Visual-Studio"));
 
